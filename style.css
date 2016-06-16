@@ -1,6 +1,10 @@
-h1,p
+p
 {
   font-family: 'Slabo 27px', serif;
+}
+h1
+{
+  font-family: 'Open Sans', sans-serif;
 }
 #wrapper
 {
