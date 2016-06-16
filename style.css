@@ -17,8 +17,5 @@ h1
   bottom: 0;
   left: 0;
   right: 0;
-}
-#textwrap
-{
-  line-height: 500px;
+  vertical-align: middle;
 }
